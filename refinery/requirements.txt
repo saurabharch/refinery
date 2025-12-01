@@ -12,3 +12,4 @@ flask-wtf==0.10.2
 psycopg2==2.5.4
 kombu==3.0.23
 
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
